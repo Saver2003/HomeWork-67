@@ -1,0 +1,26 @@
+.NumLock {
+    width: 300px;
+    margin: 50px auto;
+}
+
+.NumLock .Digit {
+    display: block;
+    text-align: center;
+    margin: 10px auto 30px;
+    padding-top: 10px;
+    font-size: 20px;
+    width: 100px;
+    height: 30px;
+    background: #ccc;
+    line-height: 20px;
+}
+
+.NumLock button {
+    width: 85px;
+    margin: 5px;
+}
+
+.NumLock p {
+    text-align: center;
+    width: 300px;
+}
